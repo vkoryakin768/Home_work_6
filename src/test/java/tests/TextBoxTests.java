@@ -4,8 +4,7 @@ import org.junit.jupiter.api.Test;
 import pages.components.TextBoxComponent;
 import pages.TextBoxPage;
 
-import static com.codeborne.selenide.Selenide.$;
-import static com.codeborne.selenide.Selenide.open;
+
 
 public class TextBoxTests extends TestBase {
 
